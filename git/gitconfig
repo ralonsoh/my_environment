@@ -1,0 +1,12 @@
+[user]  
+        email = ---
+        name = ---
+[alias] 
+        lg = log --graph --all --pretty=format:'%C(bold)%h%Creset -%C(auto)%d%Creset %s %C(green dim)(%cr)%Creset %C(ul)<%an>'
+[core]  
+        excludesfile = /home/stack/.gitignore
+        editor = vim
+        compression = 9
+[http]  
+        postBuffer = 524288000
+
